@@ -1,6 +1,7 @@
 {
-  "name": "@hmttelange/claim-chat-agent",
-  "version": "1.0.0",
+  "name": "@hanmanttelange/claim-chat-agent",
+  "author": "Hanmant Telange",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
@@ -38,7 +39,6 @@
     "ai-agent",
     "streaming"
   ],
-  "author": "",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=18.0.0",
