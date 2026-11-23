@@ -5,6 +5,14 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmttelange/chat-lib-widget.git"
+  },
+  "homepage": "https://github.com/hmttelange/chat-lib-widget#readme",
+  "bugs": {
+    "url": "https://github.com/hmttelange/chat-lib-widget/issues"
+  },
   "type": "module",
   "description": "A customizable, embeddable floating AI agent chat widget with streaming and backend support for React and Vanilla JS.",
   "main": "./dist/index.cjs",
